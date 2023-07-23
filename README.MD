@@ -92,13 +92,13 @@ or if you're Locally hosting, create a file named `config.env` in the root direc
 An example of `config.env` file:
 
 ```py
-API_ID=12345
-API_HASH=esx576f8738x883f3sfzx83
-BOT_TOKEN=55838383:yourtbottokenhere
+API_ID=1968287
+API_HASH=fddba1119766321a3dff330db7c917f1
+BOT_TOKEN=6610338010:AAH8ErPJeXDePOHMPiilidY1P-OSWEBNjCk
 BIN_CHANNEL=-100
 PORT=8080
 FQDN=your_server_ip
-OWNER_ID=your_user_id
+OWNER_ID=5841761654
 DATABASE_URL=mongodb_uri
 ```
   </details>
@@ -106,27 +106,28 @@ DATABASE_URL=mongodb_uri
 <details>
   <summary><b>Vars and Details :</b></summary>
 
-`API_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_ID` : 1968287
 
-`API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_HASH` : fddba1119766321a3dff330db7c917f1
   
 `MY_PASS` : Bot PASSWORD
 
-`BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
+`BOT_TOKEN` : 6610338010:AAH8ErPJeXDePOHMPiilidY1P-OSWEBNjCk
 
-`BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://telegram.dog/MissRose_bot) as admin to the channel and type /id. Now copy paste the ID into this field.
+`BIN_CHANNEL` : 1936021544
+
   
-`OWNER_USERNAME` : U should be knowing it afterall it's your username dont remember ? it just go to settings!
+`OWNER_USERNAME` : @Killerbkt
 
-`OWNER_ID` : Your Telegram User ID
+`OWNER_ID` : 5841761654
 
-`DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can click on logo below!
+`DATABASE_URL` : 6379403455:AAHN1pJjMr0av5-MPdvaZHAsU1mITo1Dg0o
 
 [![Deploy k mongo](https://telegra.ph/file/fd68906852c71fdd68bef.jpg)](https://www.youtube.com/watch?v=HhHzCfrqsoE)
 
  Option Vars
 
-`UPDATES_CHANNEL` : Put a Public Channel Username, so every user have to Join that channel to use the bot. Must add bot to channel as Admin to work properly.
+`UPDATES_CHANNEL` : @LovingUsDramabot
 
 `BANNED_CHANNELS` : Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with <kbd>Space</kbd>.
 
@@ -151,18 +152,8 @@ DATABASE_URL=mongodb_uri
 
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
   
-![image](https://i.postimg.cc/gJV7ZJK5/Screenshot-20220811-114359.jpg)
 
 
 ### Channel Support
 Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button. </details>
-
-### Credits : 
-
-- [Adarsh Goel](https://github.com/adarsh-goel)
-- [DeekshithSH](https://github.com/DeekshithSH) 
-- <b>⍣ [ᴀᴀᴅʜɪ](https://GitHub.com/Aadhi000)</b>
-- Everyone In This Journey !
-
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/AboutAadhi) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/aadhi.xr/) | [ɢɪᴛʜᴜʙ](https://GitHub.com/Aadhi000)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/MWUpdatez)</b>
+                                                                                                                                                         
